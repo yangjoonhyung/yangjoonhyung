@@ -17,13 +17,13 @@ Java와 Spring Boot를 중심으로 서비스의 요구사항을 구조화하고
 ⭐ **[HearO](https://github.com/fourdushes/backend)** — Backend & Service Planning · [Frontend](https://github.com/fourdushes/frontend)<br>
 피보호자·보호자·의료기관을 연결하고 진료 현장의 대화를 기록해 AI로 요약하는 서비스
 
-⭐ **[nextDoor](https://github.com/yangjoonhyung/nextDoor)** — Full-stack<br>
+⭐ **[nextDoor](https://github.com/yangjoonhyung/nextDoor)** — Backend & Service Planning<br>
 여행 조건을 바탕으로 AI가 동선을 최적화하고 여행 준비 과정을 관리하는 서비스
 
-⭐ **[yaeottae](https://github.com/yangjoonhyung/yaeottae)** — Backend<br>
+⭐ **[yaeottae](https://github.com/yangjoonhyung/yaeottae)** — Full-stack & Service Planning<br>
 회원 인증, 사용자 성향 테스트, 음식점·리뷰·댓글 기능과 외부 API·AI 모델 연동
 
-⭐ **[WHABA](https://github.com/yangjoonhyung/WHABA)** — Full-stack<br>
+⭐ **[WHABA](https://github.com/yangjoonhyung/WHABA)** — Backend & Service Planning<br>
 여행자와 현지 가이드의 프로필·여행 요청·매칭을 연결하는 플랫폼
 
 ---
