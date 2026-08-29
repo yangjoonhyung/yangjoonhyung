@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Yang%20Joonhyung&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Product%20Builder&descAlignY=59&descSize=18)
@@ -43,6 +44,7 @@ Java와 Spring Boot를 중심으로 서비스의 요구사항을 구조화하고
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 ![WebClient](https://img.shields.io/badge/WebClient-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
@@ -79,4 +81,3 @@ Java와 Spring Boot를 중심으로 서비스의 요구사항을 구조화하고
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-
