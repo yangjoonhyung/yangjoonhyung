@@ -14,7 +14,7 @@ Java와 Spring Boot를 중심으로 서비스의 요구사항을 구조화하고
 
 ## My Projects 👨‍💻
 
-⭐ **[HearO](https://github.com/fourdushes/backend)** — Backend & Service Planning · [Frontend](https://github.com/fourdushes/frontend)<br>
+⭐ **[HearO](https://github.com/fourdushes)** — Backend & Service Planning · [Frontend](https://github.com/fourdushes/frontend)<br>
 피보호자·보호자·의료기관을 연결하고 진료 현장의 대화를 기록해 AI로 요약하는 서비스
 
 ⭐ **[nextDoor](https://github.com/yangjoonhyung/nextDoor)** — Backend & Service Planning<br>
